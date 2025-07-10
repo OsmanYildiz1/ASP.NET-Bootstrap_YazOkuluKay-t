@@ -12,12 +12,13 @@ Bu proje, ASP.Net ve Bootstrap kullanılarak katmanlı mimaride geliştirilmiş 
 # Öğrenci Listesi   
 <img width="1920" height="515" alt="OgrenciListesi" src="https://github.com/user-attachments/assets/a68bf71c-16f8-4f7d-9a12-b2940a0b1300" />  
 
-# Düzenle
-![edit](https://github.com/user-attachments/assets/6b6c87ba-414f-423a-983a-ae705f98a894)  
+# Yeni Öğrenci Ekleme
+ <img width="1820" height="546" alt="yeniogrenci" src="https://github.com/user-attachments/assets/5b79ede1-d630-4de3-ba13-53ff7f1806da" />  
 
-# Detay Sayfası
 
-![details](https://github.com/user-attachments/assets/16e4024b-329e-4a41-b8dc-657846357be6)  
+# Öğrenci Güncelleme
+ <img width="1737" height="676" alt="ogrguncelle" src="https://github.com/user-attachments/assets/53842912-2a4f-482a-bf87-e58632f30781" />  
 
-# Silme
-![delete2](https://github.com/user-attachments/assets/a179489b-6c3b-4a41-9dd4-27939d127c6d)  
+# Ders Seçim Ekranı
+<img width="1457" height="395" alt="dersekranı" src="https://github.com/user-attachments/assets/216e4319-2b14-4e1d-951b-d7800fece040" />  
+
